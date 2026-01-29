@@ -147,34 +147,6 @@ GET /users/{userId}/likedBooks
 POST /users/{userId}/likedBooks/{bookId}
 → Adds a book to the user’s saved list.
 
-# Wireframe Images
-
-<img width="863" height="644" alt="Screenshot 2025-11-23 at 5 07 26 PM" src="https://github.com/user-attachments/assets/f928ec5e-8fcc-47d6-8d54-6b135ca94d72" />
-
-# Video Walkthrough
-
-### Creating Firebase Server
-![creatingfirebaseserver-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c7547956-de13-4c26-a43f-667c31528c7d)
-
-### Setting up App in XCode
-![settingupxcodeandfirebasepart1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/255598f2-abe2-428b-84b4-ec2bc7450473)
-
-### Login View
-![settinguploginviewui-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/04d6debe-44fc-4451-9d6e-c1fcec366c83)
-![loginviewdemo-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/b5566dce-d04f-452f-8d6a-6099b9c62206)
-
-### Profile View
-![Screen20Recording202025-11-3020at206-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6deba6fc-d188-4874-a6a0-cdf554f4e8d1)
-
-### Swipe Demo
-![swipedemo-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/19280973-f01b-4a1d-9802-b97dfe856dab)
-
-### Detail View
-![detailview-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/afeb8306-2b2e-4fe7-9315-2e2f2c1e4326)
-
-### Saved Book View (Currently Seeing View)
-![savedbooksdemo4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7c8e9425-1b0e-4f16-b5ab-4e298728891b)
-
 
 # Demo Day Prep Video
 
